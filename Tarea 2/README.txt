@@ -26,5 +26,5 @@
      ```
    - En Mac/Linux:
      ```sh
-     python3 funciones_recursivas.py
+     python3 funciones.py
      ```
